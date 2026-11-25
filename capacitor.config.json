@@ -1,0 +1,20 @@
+{
+  "appId": "com.yueora.music",
+  "appName": "YUEORA Music",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#090B14",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#090B14",
+      "overlaysWebView": false
+    }
+  }
+}
